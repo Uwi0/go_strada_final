@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Each item id should be same as in the nav_graph fragment id-->
+
+    <item
+        android:id="@+id/menu_kalender_akademik"
+        android:icon="@drawable/ic_kalender_akademik"
+        android:title="@string/kalender_akademik"/>
+
+    <item
+        android:id="@+id/menu_jadwal_kuliah"
+        android:icon="@drawable/ic_jadwal_kuliah"
+        android:title="@string/jadwal_kuliah"/>
+
+    <item
+        android:id="@+id/menu_absensi"
+        android:icon="@drawable/ic_absensi"
+        android:title="@string/absensi"/>
+
+    <item
+        android:id="@+id/menu_request_surat"
+        android:icon="@drawable/ic_request_surat"
+        android:title="@string/request_surat"/>
+
+    <item
+        android:id="@+id/menu_riwayat_krs"
+        android:icon="@drawable/ic_riwayat_krs"
+        android:title="@string/riwayat_krs"/>
+
+    <item
+        android:id="@+id/menu_lihat_khs"
+        android:icon="@drawable/ic_lihat_khs"
+        android:title="@string/lihat_khs"/>
+
+    <item
+        android:id="@+id/menu_transkrip_nilai"
+        android:icon="@drawable/ic_transkrip_nilai"
+        android:title="@string/transkrip_nilai"/>
+
+    <item
+        android:id="@+id/menu_pembayaran_spp"
+        android:icon="@drawable/ic_pembayaran_spp"
+        android:title="@string/pembayaran_spp"/>
+
+    <item
+        android:id="@+id/menu_none_akademik"
+        android:icon="@drawable/ic_non_akademik"
+        android:title="@string/non_akademik"/>
+
+</menu>

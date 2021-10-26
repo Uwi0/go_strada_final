@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gold">#FCD603</color>
+    <color name="white65">#A6FFFFFF</color>
+    <color name="mystic50">#80DEE9EA</color>
+    <color name="silver60">#99C9C9C9</color>
+    <color name="curious_blue">#1E7CD3</color>
+    <color name="violet">#290A49</color>
+    <color name="edge_water50">#80C9E1DC</color>
+    <color name="edge_water60">#99C9E1DC</color>
+    <color name="edge_water80">#CCC9E1DC</color>
+    <color name="edge_water">#C9E1DC</color>
+    <color name="heathered_gray">#BBB991</color>
+    <color name="scorpion">#716363</color>
+    <color name="venice_blue">#0C5A97</color>
+    <color name="trout">#51545F</color>
+    <color name="gray_suit">#CFCCD1</color>
+    <color name="cerulean">#029AD9</color>
+    <color name="spring_green">#0EF078</color>
+    <color name="persian_blue65">#A61C38A3</color>
+    <color name="tundora65">#A64E4343</color>
+    <color name="whisper">#F0EEF4</color>
+    <color name="whisper65">#A6F0EEF4</color>
+    <color name="dixie">#DE901A</color>
+    <color name="biscay">#212C67</color>
+    <color name="scooter65">#A639B2D8</color>
+    <color name="jaffa">#F2994A</color>
+    <color name="soft_peach80">#CCF3EBEB</color>
+    <color name="pastel_green">#50E44D</color>
+    <color name="rob_roy">#E8B870</color>
+    <color name="fringy_flower">#C7EACF</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>

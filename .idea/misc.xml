@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/drawable-v24/bg_bottom_nav.xml" value="0.290625" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/drawable-v24/bottom_navigation_icon.xml" value="0.15989583333333332" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/drawable-v24/ic_dashboard.xml" value="0.15989583333333332" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/drawable-v24/ic_home.xml" value="0.290625" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/drawable-v24/ic_request_surat.xml" value="0.290625" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/drawable/bg_kalender_akademik.xml" value="0.15989583333333332" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/drawable/ic_request_surat.xml" value="0.290625" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/font-v26/abel.xml" value="0.17395833333333333" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/absen_rabu_fragment2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/absen_sabtu_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/absen_selasa_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/absensi_fragment.xml" value="0.264" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/activity_login.xml" value="0.17300724637681159" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/activity_login2.xml" value="0.17300724637681159" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/consult_fragment.xml" value="0.14375" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/fragment_class_room_today.xml" value="0.21965579710144928" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/fragment_coming_soon.xml" value="0.14375" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/fragment_dashboard.xml" value="0.16666666666666666" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/fragment_home.xml" value="0.5363214837712519" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/fragment_settings.xml" value="0.17300724637681159" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/item_class_room_today.xml" value="0.4" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/item_coming_soon.xml" value="0.536" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/item_krs.xml" value="0.25" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/jadwal_absensi_fragment.xml" value="0.1793478260869565" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/jadwal_kuliah_fragment.xml" value="0.264" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/jumat_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/kalender_akademik_fragment.xml" value="0.264" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/kamis_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/kelas_fragment.xml" value="0.27447916666666666" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/khs_fragment.xml" value="0.1793478260869565" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/krs_fragment.xml" value="0.264" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/menu_aproved_request_surat_fragment.xml" value="0.15307971014492755" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/menu_guide_request_surat_fragment.xml" value="0.15307971014492755" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/menu_request_request_surat_fragment.xml" value="0.15307971014492755" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/nav_header.xml" value="0.15715579710144928" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/non_akademik_fragment.xml" value="0.1793478260869565" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/pembayaran_spp_fragment.xml" value="0.1793478260869565" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/layout/request_surat_fragment.xml" value="0.264" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/menu/bottom_navigation.xml" value="0.27447916666666666" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/menu/drawer_navigation.xml" value="0.14375" />
+        <entry key="..\:/Document/project magang/Go-Strada/app/src/main/res/menu/menu_semester.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

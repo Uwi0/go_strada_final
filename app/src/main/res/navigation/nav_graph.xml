@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <!--In the label field of fragment you can give the name that you want to show in the toolbar-->
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.kakapo.kotlin.go_strada.fragments.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/activityFragment"
+        android:name="com.kakapo.kotlin.go_strada.fragments.activity_fragment.ActivityFragment"
+        android:label="activity_fragment"
+        tools:layout="@layout/activity_fragment" />
+    <fragment
+        android:id="@+id/consultFragment"
+        android:name="com.kakapo.kotlin.go_strada.fragments.consult_fragment.ConsultFragment"
+        android:label="consult_fragment"
+        tools:layout="@layout/consult_fragment" />
+    <fragment
+        android:id="@+id/classFragment"
+        android:name="com.kakapo.kotlin.go_strada.fragments.class_fragment.KelasFragment"
+        android:label="kelas_fragment"
+        tools:layout="@layout/kelas_fragment" />
+    <fragment
+        android:id="@+id/menu_kalender_akademik"
+        android:name="com.kakapo.kotlin.go_strada.fragments.kalender_akademik_fragment.KalenderAkademikFragment"
+        android:label="kalender_akademik_fragment"
+        tools:layout="@layout/kalender_akademik_fragment" />
+    <fragment
+        android:id="@+id/menu_jadwal_kuliah"
+        android:name="com.kakapo.kotlin.go_strada.fragments.jadwal_kuliah_fragment.JadwalKuliahFragment"
+        android:label="jadwal_absensi_fragment"
+        tools:layout="@layout/jadwal_kuliah_fragment" />
+    <fragment
+        android:id="@+id/menu_absensi"
+        android:name="com.kakapo.kotlin.go_strada.fragments.absensi_fragment.AbsensiFragment"
+        android:label="absensi_fragment"
+        tools:layout="@layout/absensi_fragment" />
+    <fragment
+        android:id="@+id/menu_request_surat"
+        android:name="com.kakapo.kotlin.go_strada.fragments.request_surat_fragment.RequestSuratFragment"
+        android:label="request_surat_fragment"
+        tools:layout="@layout/request_surat_fragment" />
+    <fragment
+        android:id="@+id/menu_riwayat_krs"
+        android:name="com.kakapo.kotlin.go_strada.fragments.krs_fragment.KrsFragment"
+        android:label="krs_fragment"
+        tools:layout="@layout/krs_fragment" />
+    <fragment
+        android:id="@+id/menu_lihat_khs"
+        android:name="com.kakapo.kotlin.go_strada.fragments.khs_fragment.KhsFragment"
+        android:label="khs_fragment"
+        tools:layout="@layout/khs_fragment" />
+    <fragment
+        android:id="@+id/menu_transkrip_nilai"
+        android:name="com.kakapo.kotlin.go_strada.fragments.transkrip_nilai_fragment.TranskripNilaiFragment"
+        android:label="transkrip_nilai_fragment"
+        tools:layout="@layout/transkrip_nilai_fragment" />
+    <fragment
+        android:id="@+id/menu_pembayaran_spp"
+        android:name="com.kakapo.kotlin.go_strada.fragments.pembayaran_spp_fragment.PembayaranSppFragment"
+        android:label="pembayaran_spp_fragment"
+        tools:layout="@layout/pembayaran_spp_fragment" />
+    <fragment
+        android:id="@+id/menu_none_akademik"
+        android:name="com.kakapo.kotlin.go_strada.fragments.non_akadmik_fragment.NonAkademikFragment"
+        android:label="non_akademik_fragment"
+        tools:layout="@layout/non_akademik_fragment" />
+
+</navigation>
