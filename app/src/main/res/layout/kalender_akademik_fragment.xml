@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_splash"
-    tools:context=".fragments.kalender_akademik_fragment.KalenderAkademikFragment">
+    tools:context=".presentation.fragments.kalender_akademik_fragment.KalenderAkademikFragment">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/constraintLayout"

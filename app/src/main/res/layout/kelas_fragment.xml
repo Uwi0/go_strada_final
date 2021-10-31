@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_splash"
-    tools:context=".fragments.class_fragment.KelasFragment">
+    tools:context=".presentation.fragments.class_fragment.KelasFragment">
 
     <androidx.cardview.widget.CardView
         android:layout_width="0dp"

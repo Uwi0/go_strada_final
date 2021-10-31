@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".fragments.coming_soon_fragment.ComingSoonFragment">
+    tools:context=".presentation.fragments.coming_soon_fragment.ComingSoonFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rc_class_coming_soon"

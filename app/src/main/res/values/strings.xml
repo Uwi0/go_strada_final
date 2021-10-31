@@ -99,4 +99,7 @@
     <string name="tahun_ajaran">Tahun Ajaran</string>
     <string name="materi">Materi</string>
     <string name="live">Live:</string>
+    <string name="jenis_surat">Jenis Surat</string>
+    <string name="waktu_presensi">Waktu Presensi</string>
+    <string name="waktu_pulang">waktu pulang</string>
 </resources>

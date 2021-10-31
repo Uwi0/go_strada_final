@@ -5,24 +5,31 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_splash"
-    tools:context=".fragments.request_surat_fragment.RequestSuratFragment">
+    tools:context=".presentation.fragments.request_surat_fragment.RequestSuratFragment">
 
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginTop="68dp"
         android:layout_marginEnd="24dp"
+        android:hint="@string/jenis_surat"
+        android:textColorHint="@color/rob_roy"
+        app:boxStrokeColor="@color/rob_roy"
+        app:helperTextTextColor="@color/rob_roy"
+        app:hintTextColor="@color/rob_roy"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <com.google.android.material.textfield.TextInputEditText
+        <AutoCompleteTextView
+            android:id="@+id/txt_auto_complete"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="hint" />
+            android:layout_height="48dp"
+            android:inputType="none"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <LinearLayout
@@ -43,8 +50,10 @@
             android:id="@+id/tabLayout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:tabIndicatorColor="@color/white"
-            app:tabSelectedTextColor="@color/white"
+            android:background="@android:color/transparent"
+            app:tabIndicatorColor="@color/rob_roy"
+            app:tabSelectedTextColor="@color/rob_roy"
+            app:tabTextColor="@color/white"
             tools:ignore="SpeakableTextPresentCheck" />
 
         <androidx.viewpager2.widget.ViewPager2
@@ -59,11 +68,12 @@
         android:id="@+id/imageButton3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_request_surat_button"
         android:backgroundTint="@android:color/transparent"
+        android:src="@drawable/ic_request_surat_button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.933"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        tools:ignore="SpeakableTextPresentCheck" />
 </androidx.constraintlayout.widget.ConstraintLayout>

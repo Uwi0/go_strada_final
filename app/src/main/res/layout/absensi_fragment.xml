@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@drawable/bg_splash"
-    tools:context=".fragments.absensi_fragment.AbsensiFragment">
+    tools:context=".presentation.fragments.absensi_fragment.AbsensiFragment">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="0dp"
