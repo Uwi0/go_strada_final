@@ -1,6 +1,6 @@
 package com.kakapo.kotlin.go_strada.domain.models
 
-data class KhsData(
+data class TranskripNilai(
     val nilai: String,
     val namaMatkul: String,
     val namaMatkulInggris: String,
